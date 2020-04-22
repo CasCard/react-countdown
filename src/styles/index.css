@@ -1,0 +1,37 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  :root {
+    --green: #4cedc4;
+    --darkGrey: #292f36;
+    --white: #fffffa;
+    --black: #000013;
+    --orange: #fa8334;
+    --red: #ff312e;
+  }
+  html {
+    box-sizing: border-box;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.7);
+    text-align: center;
+  }
+  body {
+    font-family: 'Fontastique', sans-serif;
+    background-image: url(../images/circuit-board.svg);
+    background-color: var(--darkGrey);
+    min-height: calc(100vh - 100px);
+    margin: 10px;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+  @font-face {
+    font-family: 'Fontastique';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fontastique'), url('Fontastique.woff') format('woff');
+}
+  
