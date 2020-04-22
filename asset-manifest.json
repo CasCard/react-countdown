@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-countdown/static/css/main.6e80f785.chunk.css",
+    "main.js": "/react-countdown/static/js/main.012c6b96.chunk.js",
+    "main.js.map": "/react-countdown/static/js/main.012c6b96.chunk.js.map",
+    "runtime-main.js": "/react-countdown/static/js/runtime-main.b05d7378.js",
+    "runtime-main.js.map": "/react-countdown/static/js/runtime-main.b05d7378.js.map",
+    "static/js/2.01c53736.chunk.js": "/react-countdown/static/js/2.01c53736.chunk.js",
+    "static/js/2.01c53736.chunk.js.map": "/react-countdown/static/js/2.01c53736.chunk.js.map",
+    "index.html": "/react-countdown/index.html",
+    "precache-manifest.84569b04f28412cd5efaf70550d3aade.js": "/react-countdown/precache-manifest.84569b04f28412cd5efaf70550d3aade.js",
+    "service-worker.js": "/react-countdown/service-worker.js",
+    "static/css/main.6e80f785.chunk.css.map": "/react-countdown/static/css/main.6e80f785.chunk.css.map",
+    "static/js/2.01c53736.chunk.js.LICENSE.txt": "/react-countdown/static/js/2.01c53736.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-countdown/static/media/circuit-board.ed7d9d2d.svg",
+    "static/media/facebook.svg": "/react-countdown/static/media/facebook.c509a4c4.svg",
+    "static/media/insta.svg": "/react-countdown/static/media/insta.453685fb.svg",
+    "static/media/tathva.svg": "/react-countdown/static/media/tathva.505b9496.svg",
+    "static/media/youtube.svg": "/react-countdown/static/media/youtube.e5bf5a0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b05d7378.js",
+    "static/js/2.01c53736.chunk.js",
+    "static/css/main.6e80f785.chunk.css",
+    "static/js/main.012c6b96.chunk.js"
+  ]
+}
